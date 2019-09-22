@@ -1,5 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-rtm-lap/sql/20190916_20190916_PRC_RTM_LAP_RTM_20190922_11_07_13_v6.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-rtm-lap/sql/20190917_20190917_PRC_RTM_LAP_RTM_20190922_11_07_18_v6.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-rtm-lap/sql/20190920_20190920_PRC_RTM_LAP_RTM_20190922_11_07_35_v6.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-rtm-lap/sql/20190918_20190918_PRC_RTM_LAP_RTM_20190922_11_07_24_v6.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-rtm-lap/sql/20190919_20190919_PRC_RTM_LAP_RTM_20190922_11_07_29_v6.sql
+20190919_20190919_PRC_RTM_LAP_RTM_20190922_11_07_29_v6.sql
+20190920_20190920_PRC_RTM_LAP_RTM_20190922_11_07_35_v6.sql
+20190918_20190918_PRC_RTM_LAP_RTM_20190922_11_07_24_v6.sql
+20190916_20190916_PRC_RTM_LAP_RTM_20190922_11_07_13_v6.sql
+20190917_20190917_PRC_RTM_LAP_RTM_20190922_11_07_18_v6.sql
